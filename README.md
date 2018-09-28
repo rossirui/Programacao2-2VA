@@ -1,2 +1,3 @@
 # Programacao2-2VA
-Projeto do trabalhoda disciplina Programação 2
+Projeto do trabalho da disciplina Programação 2, usando a linguagem Java
+jogo Space Invaders
